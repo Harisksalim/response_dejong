@@ -1,0 +1,16 @@
+body{
+    background-image: url('/images/Background.jpg');
+}
+.navbar-brand img{
+    width: 25%;
+}
+.navigation_header{
+    width: 100%;
+    background-color: rgb(3, 3, 58);
+}
+   @media(max-width:991px){
+    .navigation_header .navbar-brand img {
+        width: 200px;
+    }} 
+
+ 
